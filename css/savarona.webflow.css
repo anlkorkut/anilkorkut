@@ -588,6 +588,7 @@ img {
 
   .profile-pic {
     position: static;
+    transform: rotate(90deg);
   }
 
   .about-me {
