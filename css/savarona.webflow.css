@@ -181,6 +181,7 @@ img {
 }
 
 .button {
+  display: none;
   color: #00d6b4;
   text-transform: uppercase;
   background-color: rgba(0, 0, 0, 0);
