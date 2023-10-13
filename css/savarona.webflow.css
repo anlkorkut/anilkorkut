@@ -345,6 +345,7 @@ img {
   padding-bottom: 0;
   display: block;
   overflow: auto;
+  transform: rotate(90deg);
 }
 
 .about-me {
